@@ -14,4 +14,4 @@ En este trabajo práctico, se desarrolló un sitio web interactivo utilizando HT
 ## Créditos
 Desarrollado por: 
   dnmWoody - (https://github.com/dnmWoody)
-Visita el sitio web del proyecto en: (https://dnmwoody.github.io/module2-solution/index.html).
+Visita el sitio web del proyecto en: (https://dnmwoody.github.io/menuCarnes/).
